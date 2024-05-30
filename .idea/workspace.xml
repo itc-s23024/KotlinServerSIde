@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35649af2-6e7e-44b6-9ce7-ea5a62d83d97" name="変更" comment="5/29　2章~3章 2.7.5~3.5まで">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23024/practice/chap3/CalcJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/CompanyConstants.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/Hello.kt" afterDir="false" />
+    <list default="true" id="35649af2-6e7e-44b6-9ce7-ea5a62d83d97" name="変更" comment="5/29　3章 1部終わり">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23024/practice/chap3/JavaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23024/practice/chap3/JavaMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/sec4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/sec4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +163,7 @@
       <updated>1716876047817</updated>
       <workItem from="1716876049504" duration="7084000" />
       <workItem from="1716941794004" duration="24340000" />
-      <workItem from="1717028524492" duration="3500000" />
+      <workItem from="1717028524492" duration="4197000" />
     </task>
     <task id="LOCAL-00001" summary="5/28mainからmain7まで">
       <option name="closed" value="true" />
@@ -183,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716969618101</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="5/29　3章 1部終わり">
+      <option name="closed" value="true" />
+      <created>1717032370695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717032370695</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="5/28mainからmain7まで" />
     <MESSAGE value="5/29　2章~3章 2.7.5~3.5まで" />
-    <option name="LAST_COMMIT_MESSAGE" value="5/29　2章~3章 2.7.5~3.5まで" />
+    <MESSAGE value="5/29　3章 1部終わり" />
+    <option name="LAST_COMMIT_MESSAGE" value="5/29　3章 1部終わり" />
   </component>
 </project>

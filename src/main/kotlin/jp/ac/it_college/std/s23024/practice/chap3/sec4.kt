@@ -14,6 +14,11 @@ fun main() {
     println("----3.4.5----")
     executeCalc(1,3,{ num1, num2 -> num1 + num2 })
 
+    println("----3.4.7+----")
+    println(CompanyConstants.maxEmployeesCount)
+
+    println("----3.4.8+----")
+    println(CompanyConstants.minEmployeeCount)
 }
 
 fun executeCalc(num1: Int, num2: Int, function: CalcJava) {
