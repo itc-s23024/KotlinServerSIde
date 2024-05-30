@@ -6,4 +6,16 @@ fun main() {
     user.name = "Takehata"
     println(user.id)
     println(user.name)
+
+    println("----3.4.4----")
+    val function = CalcJava { num1, num2 -> num1 + num2 }
+    println(function.calc(1,3))
+
+    println("----3.4.5----")
+    executeCalc(1,3,{ num1, num2 -> num1 + num2 })
+
+}
+
+fun executeCalc(num1: Int, num2: Int, function: CalcJava) {
+    println(function.calc(num1,num2))
 }

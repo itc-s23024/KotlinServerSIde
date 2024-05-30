@@ -4,33 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35649af2-6e7e-44b6-9ce7-ea5a62d83d97" name="変更" comment="5/28mainからmain7まで">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23024/practice/chap3/AnimalJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23024/practice/chap3/HelloByJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23024/practice/chap3/JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/AddCalculationExecutorDelegate.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/AddCalculationExexutor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/CalculationExector.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/CommonCalculationExecutor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/DelegatePerson.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/DelegateWithMessage.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/Num.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/Student.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/User12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/User2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/main10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/main8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/main9.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/DogKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/HelloByKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/sec1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/sec2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/sec3.kt" afterDir="false" />
+    <list default="true" id="35649af2-6e7e-44b6-9ce7-ea5a62d83d97" name="変更" comment="5/29　2章~3章 2.7.5~3.5まで">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23024/practice/chap3/CalcJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/CompanyConstants.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/Hello.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23024/practice/chap3/UserJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23024/practice/chap3/UserJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/main7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap2/main7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/sec4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23024/practice/chap3/sec4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,27 +26,28 @@
       <list>
         <option value="Kotlin Interface" />
         <option value="Kotlin Data Class" />
+        <option value="Class" />
+        <option value="Interface" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
-        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "itc-s23024"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;itc-s23024&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/itc-s23024/KotlinServerSIde.git",
-    "accountId": "fc90221e-8a6f-458d-9ad1-12e1d1ae6274"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/itc-s23024/KotlinServerSIde.git&quot;,
+    &quot;accountId&quot;: &quot;fc90221e-8a6f-458d-9ad1-12e1d1ae6274&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -77,35 +57,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Practice [:JavaMain.main()].executor": "Run",
-    "Gradle.Practice のビルド.executor": "Run",
-    "Kotlin.Main10Kt.executor": "Run",
-    "Kotlin.Main7Kt.executor": "Run",
-    "Kotlin.Main8Kt.executor": "Run",
-    "Kotlin.Main9Kt.executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "Kotlin.Sec1Kt.executor": "Run",
-    "Kotlin.Sec2Kt.executor": "Run",
-    "Kotlin.Sec3Kt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Practice [:JavaMain.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Practice のビルド.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main9Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Sec1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Sec2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Sec3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Sec4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "kotlin-gradle-user-dirs": [
-      "/home/s23024/.gradle"
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;/home/s23024/.gradle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="jp.ac.it_college.std.s23024.practice.chap2" />
@@ -114,7 +95,7 @@
       <recent name="jp.ac.it_college.std.s23024.practice.chap2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Sec3Kt">
+  <component name="RunManager" selected="Kotlin.Sec4Kt">
     <configuration name="JavaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jp.ac.it_college.std.s23024.practice.chap3.JavaMain" />
       <module name="Practice.main" />
@@ -124,13 +105,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jp.ac.it_college.std.s23024.practice.chap2.Main10Kt" />
-      <module name="Practice.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,13 +130,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sec4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jp.ac.it_college.std.s23024.practice.chap3.Sec4Kt" />
+      <module name="Practice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Sec4Kt" />
         <item itemvalue="Kotlin.Sec3Kt" />
         <item itemvalue="Kotlin.Sec2Kt" />
         <item itemvalue="アプリケーション.JavaMain" />
         <item itemvalue="Kotlin.Sec1Kt" />
-        <item itemvalue="Kotlin.Main10Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +164,8 @@
       <option name="presentableId" value="Default" />
       <updated>1716876047817</updated>
       <workItem from="1716876049504" duration="7084000" />
-      <workItem from="1716941794004" duration="23849000" />
+      <workItem from="1716941794004" duration="24340000" />
+      <workItem from="1717028524492" duration="3500000" />
     </task>
     <task id="LOCAL-00001" summary="5/28mainからmain7まで">
       <option name="closed" value="true" />
@@ -193,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716942449325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="5/29　2章~3章 2.7.5~3.5まで">
+      <option name="closed" value="true" />
+      <created>1716969618101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716969618101</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +191,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="5/28mainからmain7まで" />
-    <option name="LAST_COMMIT_MESSAGE" value="5/28mainからmain7まで" />
+    <MESSAGE value="5/29　2章~3章 2.7.5~3.5まで" />
+    <option name="LAST_COMMIT_MESSAGE" value="5/29　2章~3章 2.7.5~3.5まで" />
   </component>
 </project>
